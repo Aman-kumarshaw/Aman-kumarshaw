@@ -35,15 +35,15 @@
 ---
 
 ### 📈 Contribution Graph
-[![Sudipta's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SudiptaKumarDas&theme=react-dark)](https://github.com/SudiptaKumarDas/github-readme-activity-graph)
+[![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SudiptaKumarDas&theme=react-dark)](https://github.com/SudiptaKumarDas/github-readme-activity-graph)
 
 ---
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/sudiptakumardas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sudiptakumar@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/sudiptakdas" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aman-kumar-shaw-b4337a322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shawaman346@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+
 </p>
 
 ---
