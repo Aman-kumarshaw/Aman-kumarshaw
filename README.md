@@ -1,6 +1,6 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hi 👋, I'm Sudipta Kumar Das</h1>
+<h1 align="center">Hi 👋, I'm Aman Kumar Shaw</h1>
 <h3 align="center">A Passionate Full Stack Developer & AI Enthusiast 🚀</h3>
 
 <p align="center">
